@@ -11,5 +11,5 @@ Production-first engineering for **Blockchain**, **Trading systems**, and **AI a
 ## Work with us
 - Website: https://offchaintech.com  
 - Email: hello@offchaintech.com  
-- Telegram: <add link>  
-- Book a call: <add link>
+- Telegram: https://t.me/@offchaintech 
+- Book a call: https://calendly.com/vorarajesh5/30min
