@@ -1,16 +1,15 @@
-## Hi there 👋
+# OffchainTech
 
-<!--
-**OffchainTech/OffchainTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Production-first engineering for **Blockchain**, **Trading systems**, and **AI automation**.
 
-Here are some ideas to get you started:
+## What we build
+- Smart contracts, token launches, DeFi + liquidity systems
+- Exchange foundations, wallet + custody flows, monitoring
+- Trading bots, execution APIs, risk controls, analytics
+- AI agents, copilots, RAG/knowledge search, automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work with us
+- Website: https://offchaintech.com  
+- Email: hello@offchaintech.com  
+- Telegram: <add link>  
+- Book a call: <add link>
